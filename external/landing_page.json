@@ -1,19 +1,19 @@
 [
 	{
 		"title": "Avatar1",
-		"banner_link": "https://raw.githubusercontent.com/jonassjoh/Playr/master/app/src/main/res/drawable/avatar_banner.jpg",
+		"banner_link": "http://lorempixel.com/1066/465/food",
 		"lead": "Brand New Trailer!",
 		"article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id luctus quam. Donec dapibus rhoncus elit in tincidunt. Proin aliquam, purus non pharetra imperdiet."
 	},
 	{
 		"title": "Avatar2",
-		"banner_link": "https://raw.githubusercontent.com/jonassjoh/Playr/master/app/src/main/res/drawable/avatar_banner.jpg",
+		"banner_link": "http://lorempixel.com/1066/465/food",
 		"lead": "Brand New Trailer!",
 		"article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id luctus quam. Donec dapibus rhoncus elit in tincidunt. Proin aliquam, purus non pharetra imperdiet."
 	},
 	{
 		"title": "Avatar3",
-		"banner_link": "https://raw.githubusercontent.com/jonassjoh/Playr/master/app/src/main/res/drawable/avatar_banner.jpg",
+		"banner_link": "http://lorempixel.com/1066/465/food",
 		"lead": "Brand New Trailer!",
 		"article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id luctus quam. Donec dapibus rhoncus elit in tincidunt. Proin aliquam, purus non pharetra imperdiet."
 	},

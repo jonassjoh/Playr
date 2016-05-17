@@ -1,26 +1,26 @@
-{
-	"news_1": {
+[
+	{
 		"title": "Avatar1",
 		"banner_link": "https://raw.githubusercontent.com/jonassjoh/Playr/master/app/src/main/res/drawable/avatar_banner.jpg",
 		"lead": "Brand New Trailer!",
 		"article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id luctus quam. Donec dapibus rhoncus elit in tincidunt. Proin aliquam, purus non pharetra imperdiet."
 	},
-	"news_2": {
+	{
 		"title": "Avatar2",
 		"banner_link": "https://raw.githubusercontent.com/jonassjoh/Playr/master/app/src/main/res/drawable/avatar_banner.jpg",
 		"lead": "Brand New Trailer!",
 		"article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id luctus quam. Donec dapibus rhoncus elit in tincidunt. Proin aliquam, purus non pharetra imperdiet."
 	},
-	"news_3": {
+	{
 		"title": "Avatar3",
 		"banner_link": "https://raw.githubusercontent.com/jonassjoh/Playr/master/app/src/main/res/drawable/avatar_banner.jpg",
 		"lead": "Brand New Trailer!",
 		"article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id luctus quam. Donec dapibus rhoncus elit in tincidunt. Proin aliquam, purus non pharetra imperdiet."
 	},
-	"news_4": {
+	{
 		"title": "Avatar4",
 		"banner_link": "https://raw.githubusercontent.com/jonassjoh/Playr/master/app/src/main/res/drawable/avatar_banner.jpg",
 		"lead": "Brand New Trailer!",
 		"article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id luctus quam. Donec dapibus rhoncus elit in tincidunt. Proin aliquam, purus non pharetra imperdiet."
 	}
-}
+]

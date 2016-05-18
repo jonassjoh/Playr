@@ -2,41 +2,41 @@
   "movies": [
     {
       "cover": "http://ia.media-imdb.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
-      "imdb_id": "tt0111161",
+      "imdb_id": "tt0111161"
     },
     {
       "cover": "http://ia.media-imdb.com/images/M/MV5BMjEyMjcyNDI4MF5BMl5BanBnXkFtZTcwMDA5Mzg3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-      "imdb_id": "tt0068646",
+      "imdb_id": "tt0068646"
     },
     {
       "cover": "http://ia.media-imdb.com/images/M/MV5BNDc2NTM3MzU1Nl5BMl5BanBnXkFtZTcwMTA5Mzg3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-      "imdb_id": "tt0071562",
+      "imdb_id": "tt0071562"
     },
     {
       "cover": "http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-      "imdb_id": "tt0468569",
+      "imdb_id": "tt0468569"
     },
     {
       "cover": "http://ia.media-imdb.com/images/M/MV5BMzMwMTM4MDU2N15BMl5BanBnXkFtZTgwMzQ0MjMxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
-      "imdb_id": "tt0108052",
+      "imdb_id": "tt0108052"
     },
     {
       "cover": "http://ia.media-imdb.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-      "imdb_id": "tt0050083",
+      "imdb_id": "tt0050083"
     },
     {
       "cover": "http://ia.media-imdb.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
-      "imdb_id": "tt0110912",
+      "imdb_id": "tt0110912"
     }
   ],
   "series": [
     {
       "cover": "http://ia.media-imdb.com/images/M/MV5BMTc2NjgxMzc5Nl5BMl5BanBnXkFtZTcwOTc0OTM0MQ@@._V1._CR10,44,330,454_UY268_CR6,0,182,268_AL_.jpg",
-      "imdb_id": "tt0285403",
+      "imdb_id": "tt0285403"
     },
     {
       "cover": "http://ia.media-imdb.com/images/M/MV5BMTgzNjAzMDE0NF5BMl5BanBnXkFtZTcwNTEyMzM3OA@@._V1_UY268_CR7,0,182,268_AL_.jpg",
-      "imdb_id": "tt0386676",
+      "imdb_id": "tt0386676"
     }
   ]
 }
